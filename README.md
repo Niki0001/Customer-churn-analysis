@@ -15,7 +15,6 @@ drivers using Python (Pandas, Matplotlib, Seaborn).
 
 ## 🛠️ Tools Used
 - Python — Pandas, Matplotlib, Seaborn
-- Power BI — Interactive Dashboard
 
 ## 📁 Files
 - `churn_analysis.ipynb` — Main Python Notebook
