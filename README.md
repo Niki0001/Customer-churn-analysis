@@ -15,10 +15,12 @@ drivers using Python (Pandas, Matplotlib, Seaborn).
 
 ## 🛠️ Tools Used
 - Python — Pandas, Matplotlib, Seaborn
-
+- Power BI — KPI Cards, Bar Charts, DAX Measures, Dashboard
 ## 📁 Files
 - `churn_analysis.ipynb` — Main Python Notebook
 - `churn_dashboard.png` — Final Visualization
+- ## 📊 Power BI Dashboard
+![Dashboard](dashboard_screenshot.png)
 
 ## 📌 Dataset
 - 15,000 customer records
